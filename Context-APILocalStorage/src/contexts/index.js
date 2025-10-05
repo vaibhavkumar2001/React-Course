@@ -1,0 +1,2 @@
+//Yeh index.js file hai jisme hum apne context ko export kar rahe hain taaki hum ise apne application ke kisi bhi component mein import kar sakein.
+export { TodoContext,TodoProvider,useTodo } from './TodoContext'
